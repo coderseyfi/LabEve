@@ -1,0 +1,16 @@
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.exe
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.deps.json
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.runtimeconfig.json
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.runtimeconfig.dev.json
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.dll
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\ref\EvAlqiSatqisi.dll
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\bin\Debug\net5.0\EvAlqiSatqisi.pdb
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.csproj.AssemblyReference.cache
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.AssemblyInfoInputs.cache
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.AssemblyInfo.cs
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.csproj.CoreCompileInputs.cache
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.dll
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\ref\EvAlqiSatqisi.dll
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.pdb
+C:\Users\seyfaddinmn\source\repos\LabTask1\EvAlqiSatqisi\obj\Debug\net5.0\EvAlqiSatqisi.genruntimeconfig.cache
